@@ -1,6 +1,10 @@
 # Design Resources
 My collection of design resources, mostly free.
 
+
+**[Go Back to README](README.md)**
+
+
 ## Icons
 * [Flat Icon](https://www.flaticon.com/) - Offers some free flat icons with editable colors in **SVG** and **PNG**
 * [Google Material Design Icons](https://material.io/resources/icons) - Icons from **Google** Material Design
@@ -17,3 +21,7 @@ My collection of design resources, mostly free.
 * [Blush Designs](https://blush.design/) - Wide range of Illustrations and fully customizable on the website. **Paid** subscription offers higher resolution and access to exclusive designs. **Free** is **PNG** in format.
 * [Many Pixels](https://www.manypixels.co/gallery) - Illustrations with search where you can also search by the color it uses. Some are **Free** and some are **Paid** in **SVG** and **PNG** format
 * [Absurd Design](https://absurd.design/) - Weird B&W Illustrations. Offers **15 Free** downloadable illustrations. The rest of it is **Paid**.
+
+
+
+**[Go Back to README](README.md)**
