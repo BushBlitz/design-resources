@@ -10,7 +10,7 @@ My collection of Study Material links.
 
 ## General Tutorials
 ### Websites
-* [Kaggle](https://www.kaggle.com/learn/overview) - Offers free tutorials like **Python**,**Machine Learning**, **Data Visualization**, **Deep Learning** etc
+* [Kaggle](https://www.kaggle.com/learn/overview) - Offers free tutorials like **Python**, **Machine Learning**, **Data Visualization**, **Deep Learning** etc
 * [Free Code Camp](https://www.freecodecamp.org/) - 6000+ tutorials on different languages. Generally a go to website for all tutorials
 
 ### Youtube Channels
