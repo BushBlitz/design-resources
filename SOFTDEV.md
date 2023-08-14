@@ -8,6 +8,8 @@ My collection of Study Material links.
 
 - [Free for Developers](https://free-for.dev/?fbclid=IwAR1w4pcvZrE3Bvp3aD4TfyLhyGprUwfj4MzKeaneXvagd7amsjEAQgDJbdw#/) - a bunch of **Free** tools and resources for your developer needs
 
+- [AI Tools](https://theaigeek.com/) - a bunch of **AI Tools and Websites** for different needs
+
 ## General Tutorials
 
 ### Websites
